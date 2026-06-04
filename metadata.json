@@ -1,0 +1,6 @@
+{
+  "name": "Video Player Pro",
+  "description": "A feature-rich, high-performance video player with full gesture controls, folder browsing, history, streaming, and custom themes like MX Player, and beyond!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
